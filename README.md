@@ -1,4 +1,4 @@
-# Scene List Generator
+# Scene List Enum Generator
 ## Usage Example 
 ```
 using CodeGen;
