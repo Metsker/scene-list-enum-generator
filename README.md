@@ -1,9 +1,9 @@
 # Scene List Generator
 
-Automaticaly creates and updates enum based on player settings scene list
+Automaticaly creates and updates enum based on your active build profile
 
-## How to use
+## Example Usage
 ```
 using CodeGen;
-SceneList.#SceneName#
+SceneManager.LoadScene((int)SceneList.#SceneFromYourActiveBuildProfile#);
 ```
