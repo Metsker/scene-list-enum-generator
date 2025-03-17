@@ -1,0 +1,10 @@
+{
+  "name": "com.metsker.scene-list-generator",
+  "version": "1.0.0",
+  "displayName": "Scene List Generator",
+  "description": "Automaticaly creates and updates enum based on your active build profile",
+  "author": {
+    "name": "Metsker",
+    "url": "https://github.com/Metsker"
+  }
+}
