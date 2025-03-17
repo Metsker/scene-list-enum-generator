@@ -1,5 +1,5 @@
 # Scene List Generator
-## Example Usage
+## Usage Example 
 ```
 using CodeGen;
 SceneManager.LoadScene((int)SceneList.#SceneFromYourActiveBuildProfile);
